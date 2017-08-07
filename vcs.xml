@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/batakinc/jobs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/batakinc/lokermedan.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\job_app\Source Code" />
+    <option name="cloneParentDir" value="E:\Loke Medan\Source Code\LokerMedan" />
   </component>
 </application>
